@@ -1,0 +1,21 @@
+
+1. Feb, 2012 - Rackspace, SF
+============================
+
+~35 hackers gathered from 9am to 9pm to hack on and with Twisted Python.
+
+In the future we might all create repos under the HackThePlanet organization, but for now here is a handy list of demo links:
+
+https://github.com/cyli - Shellless ssh that allows reading of sym links external to root mount
+
+https://github.com/exarkun - AMP repl
+
+https://github.com/jesusabdullah/node-punchcard - An ebcdic encoder/decoder, an ibm-style punchcard hole number encoder, and a formatter to print lulzy ascii cards.
+
+https://github.com/ggreer/twisted_hang - Hack day project. Figure out if the main thread is hanging, and if so, what's causing it to hang.
+
+https://github.com/morgabra/slogger - Toss IRC messages into elastic search
+
+https://github.com/mynnx/Jab - A hacky Jabber bot written in twisted Python
+
+https://github.com/wpwood/twistedspace - Twisted-based tuple(-ish) space server
