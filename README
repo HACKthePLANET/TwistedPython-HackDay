@@ -16,6 +16,8 @@ https://github.com/jesusabdullah/node-punchcard - An ebcdic encoder/decoder, an 
 
 https://github.com/ggreer/twisted_hang - Hack day project. Figure out if the main thread is hanging, and if so, what's causing it to hang.
 
+https://github.com/Kami/libcloud.rest - REST interface for Libcloud
+
 https://github.com/morgabra/slogger - Toss IRC messages into elastic search
 
 https://github.com/mynnx/Jab - A hacky Jabber bot written in twisted Python
