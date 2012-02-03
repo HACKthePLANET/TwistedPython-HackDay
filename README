@@ -1,4 +1,3 @@
-
 1. Feb, 2012 - Rackspace, SF
 ============================
 
@@ -23,3 +22,5 @@ https://github.com/morgabra/slogger - Toss IRC messages into elastic search
 https://github.com/mynnx/Jab - A hacky Jabber bot written in twisted Python
 
 https://github.com/wpwood/twistedspace - Twisted-based tuple(-ish) space server
+
+https://github.com/chrisgilmerproj/krater - Django-nonrel with MongoDB, a Wine/Vineyard api with geospatial queries
